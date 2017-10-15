@@ -1,0 +1,11 @@
+// These settings override both User and Default settings for the RSpec syntax
+{
+    "default_encoding": "UTF-8",
+    "extensions":
+    [
+        "jbuilder"
+    ],
+    "tab_size": 2,
+    "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
+

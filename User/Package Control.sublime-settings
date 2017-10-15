@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"API Blueprint",
+		"AppleScript Extensions",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Chuby Ninja Color Scheme",
+		"DashDoc",
+		"Dockerfile Syntax Highlighting",
+		"Elixir",
+		"ElixirSublime",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"ProductiveSnippetsRuby",
+		"RSpec",
+		"rspec-snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-rubocop",
+		"Theme - Asphalt",
+		"TrailingSpaces"
+	]
+}

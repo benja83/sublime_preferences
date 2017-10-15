@@ -1,0 +1,9 @@
+{
+	"default_encoding": "UTF-8",
+	"extensions":
+	[
+		"jbuilder"
+	],
+	"tab_size": 2,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
