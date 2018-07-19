@@ -2,8 +2,10 @@
 	"default_encoding": "UTF-8",
 	"extensions":
 	[
-		"jbuilder"
+		"jbuilder",
+		".ec2ssh"
 	],
+    "rulers" : [90, 150],
 	"tab_size": 2,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
 }

@@ -1,0 +1,8 @@
+{
+	"extensions":
+	[
+		"coffee"
+	],
+    "tab_size": 2,
+    "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
